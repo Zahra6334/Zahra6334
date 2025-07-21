@@ -18,3 +18,9 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiyanaaa&show_icons=true&locale=tr" alt="zahra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiyanaaa&" alt="zahra" /></p>
+<br />
+
+![](https://github-profile-trophy.vercel.app/?username=Zahra6334&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+
+<br />
