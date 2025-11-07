@@ -35,21 +35,21 @@
 
 <h3 align="center">📊 GitHub İstatistiklerim:</h3>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jiyanaaa&show_icons=true&theme=radical&locale=tr&hide_border=true" alt="github stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyanaaa&layout=compact&theme=radical&hide_border=true" alt="top languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jiyanaaa&show_icons=true&theme=radical&locale=tr" alt="github stats" height="165"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyanaaa&layout=compact&theme=radical" alt="top languages" height="165"/>
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyanaaa&theme=radical&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyanaaa&theme=radical" alt="streak stats"/>
 </p>
 
 ---
 
 <h3 align="center">🏆 Başarılar:</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jiyanaaa&theme=dracula&no-frame=true&margin-w=10"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=jiyanaaa&theme=dracula&no-frame=false&margin-w=10"/>
 </p>
 
 ---
