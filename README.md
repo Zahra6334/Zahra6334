@@ -1,26 +1,9 @@
-<h1 align="center">Merhaba 👋, ben ZAHRA ŞEYHNEBİ</h1>
-<h3 align="center">Türkiye'den tutkulu bir geliştirici</h3>
+<h1 align="center">Merhaba Dünya! Ben <span style="color:#FFD700">Zahra Şeyhnebi</span> ✨</h1> <h3 align="center">Türkiye'den gelen, kodla nefes alan bir <span style="color:#00BFFF">Bilgisayar Mühendisliği Öğrencisi</span> ve tutkulu bir geliştiriciyim. 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jiyanaaa&label=Profile%20views&color=0e75b6&style=flat" alt="jiyanaaa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jiyanaaa&label=Profil%20G%C3%B6r%C3%BCnt%C3%BCleme&color=586e75&style=for-the-badge" alt="Profil Görüntüleme Sayısı" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jiyanaaa" alt="jiyanaaa" /></a> </p>
+<h3 align="center">🌐 Benimle Bağlantı Kurun:</h3> <p align="center"> <a href="https://www.linkedin.com/in/zahra-%c5%9feyhnebi-aa52442a8/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/> </a> <a href="mailto:seninmailin@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/> </a> </p>
 
-<h3 align="left">Benimle iletişime geçin:</h3>
-<p align="left">
-<a href="https://linkedin.com/tr/https://www.linkedin.com/tr/zahra-%c5%9feyhnebi-aa52442a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/tr/zahra-%c5%9feyhnebi-aa52442a8/" height="30" width="40" /></a>
-</p>
+<h3 align="center">🛠️ Teknoloji Yığınım:</h3> <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a> <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></a> <a href="https://www.microsoft.com/tr-tr/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a> </p>
 
-<h3 align="left">Diller ve Araçlar:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" genişlik="40" yükseklik="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" genişlik="40" yükseklik="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" genişlik="40" yükseklik="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/tr-tr/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiyanaaa&show_icons=true&locale=tr&layout=compact" alt="zahra" /></p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=jiyanaaa&show_icons=true&locale=tr" alt="zahra" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiyanaaa&" alt="zahra" /></p>
-<br />
-
-![](https://github-profile-trophy.vercel.app/?username=Zahra6334&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
-
-<br /> 
+<h3 align="center">📊 GitHub İstatistiklerim & Başarılarım:</h3> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jiyanaaa&show_icons=true&theme=dark&hide_border=true&title_color=FFD700&icon_color=00BFFF&text_color=FFFFFF&locale=tr" alt="zahra github stats" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyanaaa&layout=compact&theme=dark&hide_border=true&title_color=FFD700&icon_color=00BFFF&text_color=FFFFFF" alt="zahra top languages" height="180"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyanaaa&theme=dark&hide_border=true&stroke=00BFFF&background=0D1117&currStreakNum=FFD700&ring=FFD700" alt="zahra streak stats"/> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jiyanaaa&theme=dracula&no-frame=true&margin-w=10&title_color=FFD700&rank_name=rank&icon_color=00BFFF" alt="zahra trophies"/> </p>
