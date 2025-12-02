@@ -21,16 +21,6 @@
 
 ---
 
-### 📂 Öne Çıkan Projeler
-- **Süpermarket Otomasyonu** – Java + SQL Server + GUI  
-- **Hasta Muayene Öncelik Sistemi** – Heap veri yapısı ile hasta sıralama  
-- **AFKO (Afet Koordinasyon Sistemi)** – Java Spring Boot, Flutter, SQL Server, NLP tabanlı şikayet analizi  
-
----
-
-
----
-
 ### 📫 İletişim
 - ✉️ Email: **[emailiniz]**  
 - 💼 LinkedIn: [Profiliniz](https://www.linkedin.com/in/...)  
