@@ -1,39 +1,39 @@
-# Merhaba! 👋 Ben Zahra Seyhnebi
-
-💻 **Bilgisayar Mühendisliği Öğrencisi | Yapay Zeka ve Yazılım Tutkunu**
-
----
-
-## Hakkımda
-- Bingöl Üniversitesi, Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  
-- Yazılım geliştirme, veri yapıları, yapay zeka ve makine öğrenmesi konularında çalışıyorum.  
-- Proje geliştirmeyi ve öğrendiklerimi paylaşmayı çok seviyorum.  
+<h1 align="center">Merhaba! 👋 Ben Zahra Seyhnebi</h1>
+<h3 align="center">Bilgisayar Mühendisliği Öğrencisi | Yazılım ve Yapay Zeka Tutkunu</h3>
 
 ---
 
-## Yetenekler
-- **Programlama Dilleri:** Java, C, Python (temel), SQL  
-- **Teknolojiler & Araçlar:** GitHub, IntelliJ IDEA, MySQL, Java Swing, Flutter (mobil), REST API  
-- **Alanlar:** Nesneye Dayalı Programlama, Veri Yapıları, Makine Öğrenmesi, Yapay Zeka  
+### 💻 Hakkımda
+- Bingöl Üniversitesi, Bilgisayar Mühendisliği 3. sınıf öğrencisi  
+- Yazılım geliştirme, veri yapıları ve yapay zekaya meraklı  
+- Projeler yapmayı ve öğrendiklerimi paylaşmayı seviyorum  
 
 ---
 
-## Projelerim
-- **Süpermarket Otomasyonu:** Java + SQL Server + GUI  
-- **Hasta Muayene Öncelik Sistemi:** Heap veri yapısı ile hasta sıralama  
-- **AFKO (Afet Koordinasyon Sistemi):** Java Spring Boot, Flutter, SQL Server, NLP tabanlı şikayet analizi  
-
-> Daha fazla proje ve detay için [GitHub Reposum](https://github.com/Zahra6334) ziyaret edebilirsiniz.
-
----
-
-## İletişim
-- 📫 Email: **[emailiniz]**  
-- 💼 LinkedIn: [LinkedIn Profiliniz](https://www.linkedin.com/in/...)  
+### 🛠️ Yetenekler & Teknolojiler
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
 
 ---
 
-### GitHub İstatistiklerim
+### 📂 Öne Çıkan Projeler
+- **Süpermarket Otomasyonu** – Java + SQL Server + GUI  
+- **Hasta Muayene Öncelik Sistemi** – Heap veri yapısı ile hasta sıralama  
+- **AFKO (Afet Koordinasyon Sistemi)** – Java Spring Boot, Flutter, SQL Server, NLP tabanlı şikayet analizi  
+
+---
+
+### 📈 GitHub İstatistiklerim
 ![Zahra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zahra6334&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zahra6334&layout=compact&theme=tokyonight)
 
+---
 
+### 📫 İletişim
+- ✉️ Email: **[emailiniz]**  
+- 💼 LinkedIn: [Profiliniz](https://www.linkedin.com/in/...)  
